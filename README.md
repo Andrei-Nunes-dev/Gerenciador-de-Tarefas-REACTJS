@@ -49,33 +49,6 @@ Depois de removida a tarefa, o sistema notifica o usuário que a tarefa foi excl
 - [Vite](https://vite.dev/) - Ferramenta de construção para aplicações web.
 - [[CRUD-Gerenciador-de-Tarefas-API](https://github.com/Andrei-Nunes-dev/CRUD-Gerenciador-de-Tarefas-API)] -  API que gerencia as funcionalidades de criar, editar, deletar e atualizar as tarefas e também acessa o banco de dados MySQL.
 
-## Pacotes Instalados
-> @eslint/js@9.20.0
->@tailwindcss/vite@4.0.6
-> @types/react-dom@19.0.3
-> @types/react@19.0.9
-> @vitejs/plugin-react@4.3.4
->autoprefixer@10.4.20
-> axios@1.7.9
-> bootstrap@5.3.3
->eslint-plugin-react-hooks@5.1.0
->eslint-plugin-react-refresh@0.4.19
-> eslint-plugin-react@7.37.4
-> eslint@9.20.1
-> globals@15.15.0
-> moment@2.30.1
->postcss@8.5.2
-> react-date-object@2.1.9
-> react-datepicker@8.0.0
-> react-datetime@3.3.1
-> react-dom@19.0.0
-> react-error-boundary@5.0.0
-> react-router-dom@7.1.5
-> react@19.0.0
-> sweetalert2@11.6.13
-> tailwindcss@4.0.6
-> vite@6.1.0
-
 ## Decisões de Implementação
 ### Design e Tratamentos do Sistema
 - Devido a quantidade reduzida de funções, decidiu-se colocar as funções de adicionar e visualizar diretamente na página inicial da aplicação, para evitar uma navegação redundante e uma página inicial vazia.
