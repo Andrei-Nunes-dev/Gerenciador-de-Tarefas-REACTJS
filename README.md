@@ -47,7 +47,7 @@ Depois de removida a tarefa, o sistema notifica o usuário que a tarefa foi excl
 - JavaScript
 - [ReactJS](https://react.dev/)
 - [Vite](https://vite.dev/) - Ferramenta de construção para aplicações web.
-- [[CRUD-Gerenciador-de-Tarefas-API](https://github.com/Andrei-Nunes-dev/CRUD-Gerenciador-de-Tarefas-API)] -  API que gerencia as funcionalidades de criar, editar, deletar e atualizar as tarefas e também acessa o banco de dados MySQL.
+- [CRUD-Gerenciador-de-Tarefas-API](https://github.com/Andrei-Nunes-dev/CRUD-Gerenciador-de-Tarefas-API) -  API que gerencia as funcionalidades de criar, editar, deletar e atualizar as tarefas e também acessa o banco de dados MySQL.
 
 ## Decisões de Implementação
 ### Design e Tratamentos do Sistema
