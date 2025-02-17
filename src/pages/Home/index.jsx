@@ -158,10 +158,24 @@ function Home() {
       <div className="w-screen .h-screen min-h-screen bg-gradient-to-r from-amber-400 to-orange-400 flex justify-center font-serif">
         <div className="w-full max-w-2xl">
           <h1 className="text-3xl text-green-800 font-bold text-center">
-            Gerenciador de Tarefas
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 20 28"
+              strokeWidth="1.5"
+              stroke="currentColor"
+              className="size-8 inline-block"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                d="m16.862 4.487 1.687-1.688a1.875 1.875 0 1 1 2.652 2.652L10.582 16.07a4.5 4.5 0 0 1-1.897 1.13L6 18l.8-2.685a4.5 4.5 0 0 1 1.13-1.897l8.932-8.931Zm0 0L19.5 7.125M18 14v4.75A2.25 2.25 0 0 1 15.75 21H5.25A2.25 2.25 0 0 1 3 18.75V8.25A2.25 2.25 0 0 1 5.25 6H10"
+              />
+            </svg>{" "}
+            Gerenciador de Tarefas (To-do List)
           </h1>
 
-          <form className="bg-white shadow-md rounded-2xl px-8 pt-6 pb-8 mb-4">
+          <form className="bg-white shadow-md rounded-2xl px-8 pt-6 pb-8 mb-4 mt-3">
             <div className="mb-4">
               <label className="block text-gray-700 text-sm font-bold mb-2">
                 Titulo da Tarefa
