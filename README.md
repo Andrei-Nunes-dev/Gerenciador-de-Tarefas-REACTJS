@@ -63,6 +63,7 @@ Depois de removida a tarefa, o sistema notifica o usuário que a tarefa foi excl
 ## Instruções para Execução
 - Primeiramente, é necessário que a [CRUD-Gerenciador-de-Tarefas-API](https://github.com/Andrei-Nunes-dev/CRUD-Gerenciador-de-Tarefas-API) esteja sendo executada.
 - A URL para acessar a API está localizada no arquivo "api.js", e deve está configurada com a mesma porta que a API está configurada para abrir.
+- No arquivo "vite.config.js" esta a configuração da porta da aplicação ReactJS. Está definida para a porta 3001(A porta correspondente deve estar configurada no UseCors da API no arquivo "Program.cs").
 - A aplicação pode ser executada por meio do comando "npm run dev" no terminal do Visual Studio Code.
 ---
 
